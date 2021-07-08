@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <br>
-<!--   <img width="200" src="https://raw.githubusercontent.com/guilhermepaitax/guilhermepaitax/main/.github/images/user.png"/> -->
+  <img width="200" src="https://raw.githubusercontent.com/guilhermepaitax/guilhermepaitax/main/.github/images/user.png"/>
   <br/>
   <br/>
   <p><strong>“It works on my machine.”</strong></p>
