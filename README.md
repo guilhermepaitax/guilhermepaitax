@@ -1,6 +1,6 @@
 # Guilherme Paitax
 
-Software Engineer | CTO @Pluralcode.
+Software Engineer | CTO @plural-code.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Paitax-560BD1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepaitax/)](https://www.linkedin.com/in/guilhermepaitax/) 
 [![Gmail Badge](https://img.shields.io/badge/-grpaitax@gmail.com-560BD1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grpaitax@gmail.com)](mailto:grpaitax@gmail.com)
